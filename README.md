@@ -27,3 +27,5 @@ Your assignment page on Canvas should contain instructions for submitting this p
 - In your solution, it is essential that you follow best practices and produce clean and professional results.
 - Schedule time to review, refine, and assess your work.
 - Perform basic professional polishing including spell-checking and grammar-checking on your work.
+
+
